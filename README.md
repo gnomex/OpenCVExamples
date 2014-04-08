@@ -1,0 +1,4 @@
+OpenCVExamples
+==============
+
+Academic Stuff...
